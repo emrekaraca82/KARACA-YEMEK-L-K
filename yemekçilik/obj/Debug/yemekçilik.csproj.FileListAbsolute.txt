@@ -1,0 +1,64 @@
+C:\Users\Damla karaca\Desktop\kayıtekleme\yemekçilik\yemekçilik\bin\Debug\yemekçilik.exe.config
+C:\Users\Damla karaca\Desktop\kayıtekleme\yemekçilik\yemekçilik\bin\Debug\yemekçilik.exe
+C:\Users\Damla karaca\Desktop\kayıtekleme\yemekçilik\yemekçilik\bin\Debug\yemekçilik.pdb
+C:\Users\Damla karaca\Desktop\kayıtekleme\yemekçilik\yemekçilik\obj\Debug\yemekçilik.csprojResolveAssemblyReference.cache
+C:\Users\Damla karaca\Desktop\kayıtekleme\yemekçilik\yemekçilik\obj\Debug\yemekçilik.Form1.resources
+C:\Users\Damla karaca\Desktop\kayıtekleme\yemekçilik\yemekçilik\obj\Debug\yemekçilik.Properties.Resources.resources
+C:\Users\Damla karaca\Desktop\kayıtekleme\yemekçilik\yemekçilik\obj\Debug\yemekçilik.csproj.GenerateResource.Cache
+C:\Users\Damla karaca\Desktop\kayıtekleme\yemekçilik\yemekçilik\obj\Debug\yemekçilik.exe
+C:\Users\Damla karaca\Desktop\kayıtekleme\yemekçilik\yemekçilik\obj\Debug\yemekçilik.pdb
+C:\Users\Damla karaca\Desktop\kayıtekleme\yemekçilik\yemekçilik\obj\Debug\yemekçilik.formmasa1.resources
+C:\Users\Damla karaca\Desktop\kayıtekleme\yemekçilik\yemekçilik\obj\Debug\yemekçilik.Formmasa2.resources
+C:\Users\Damla karaca\Desktop\kayıtekleme\yemekçilik\yemekçilik\obj\Debug\yemekçilik.Formmasa3.resources
+C:\Users\Damla karaca\Desktop\kayıtekleme\yemekçilik\yemekçilik\obj\Debug\yemekçilik.Formmasa4.resources
+G:\DERSLER\YAZILIM DERSLERİ\C# DERSLERİ\C# FORM DERSLERİ\Emre Çalışmalar\yemekçilik\yemekçilik\bin\Debug\yemekçilik.exe.config
+G:\DERSLER\YAZILIM DERSLERİ\C# DERSLERİ\C# FORM DERSLERİ\Emre Çalışmalar\yemekçilik\yemekçilik\obj\Debug\yemekçilik.exe
+G:\DERSLER\YAZILIM DERSLERİ\C# DERSLERİ\C# FORM DERSLERİ\Emre Çalışmalar\yemekçilik\yemekçilik\obj\Debug\yemekçilik.pdb
+G:\DERSLER\YAZILIM DERSLERİ\C# DERSLERİ\C# FORM DERSLERİ\Emre Çalışmalar\yemekçilik\yemekçilik\bin\Debug\yemekçilik.exe
+G:\DERSLER\YAZILIM DERSLERİ\C# DERSLERİ\C# FORM DERSLERİ\Emre Çalışmalar\yemekçilik\yemekçilik\bin\Debug\yemekçilik.pdb
+G:\DERSLER\YAZILIM DERSLERİ\C# DERSLERİ\C# FORM DERSLERİ\Emre Çalışmalar\yemekçilik\yemekçilik\obj\Debug\yemekçilik.csprojResolveAssemblyReference.cache
+G:\DERSLER\YAZILIM DERSLERİ\C# DERSLERİ\C# FORM DERSLERİ\Emre Çalışmalar\yemekçilik\yemekçilik\obj\Debug\yemekçilik.Form1.resources
+G:\DERSLER\YAZILIM DERSLERİ\C# DERSLERİ\C# FORM DERSLERİ\Emre Çalışmalar\yemekçilik\yemekçilik\obj\Debug\yemekçilik.formmasa1.resources
+G:\DERSLER\YAZILIM DERSLERİ\C# DERSLERİ\C# FORM DERSLERİ\Emre Çalışmalar\yemekçilik\yemekçilik\obj\Debug\yemekçilik.Formmasa2.resources
+G:\DERSLER\YAZILIM DERSLERİ\C# DERSLERİ\C# FORM DERSLERİ\Emre Çalışmalar\yemekçilik\yemekçilik\obj\Debug\yemekçilik.Formmasa3.resources
+G:\DERSLER\YAZILIM DERSLERİ\C# DERSLERİ\C# FORM DERSLERİ\Emre Çalışmalar\yemekçilik\yemekçilik\obj\Debug\yemekçilik.Formmasa4.resources
+G:\DERSLER\YAZILIM DERSLERİ\C# DERSLERİ\C# FORM DERSLERİ\Emre Çalışmalar\yemekçilik\yemekçilik\obj\Debug\yemekçilik.Properties.Resources.resources
+G:\DERSLER\YAZILIM DERSLERİ\C# DERSLERİ\C# FORM DERSLERİ\Emre Çalışmalar\yemekçilik\yemekçilik\obj\Debug\yemekçilik.csproj.GenerateResource.Cache
+E:\DERSLER\YAZILIM DERSLERİ\C# DERSLERİ\C# FORM DERSLERİ\Emre Çalışmalar\yemekçilik\yemekçilik\bin\Debug\yemekçilik.exe.config
+E:\DERSLER\YAZILIM DERSLERİ\C# DERSLERİ\C# FORM DERSLERİ\Emre Çalışmalar\yemekçilik\yemekçilik\obj\Debug\yemekçilik.exe
+E:\DERSLER\YAZILIM DERSLERİ\C# DERSLERİ\C# FORM DERSLERİ\Emre Çalışmalar\yemekçilik\yemekçilik\obj\Debug\yemekçilik.pdb
+E:\DERSLER\YAZILIM DERSLERİ\C# DERSLERİ\C# FORM DERSLERİ\Emre Çalışmalar\yemekçilik\yemekçilik\bin\Debug\yemekçilik.exe
+E:\DERSLER\YAZILIM DERSLERİ\C# DERSLERİ\C# FORM DERSLERİ\Emre Çalışmalar\yemekçilik\yemekçilik\bin\Debug\yemekçilik.pdb
+E:\DERSLER\YAZILIM DERSLERİ\C# DERSLERİ\C# FORM DERSLERİ\Emre Çalışmalar\yemekçilik\yemekçilik\obj\Debug\yemekçilik.csprojResolveAssemblyReference.cache
+E:\DERSLER\YAZILIM DERSLERİ\C# DERSLERİ\C# FORM DERSLERİ\Emre Çalışmalar\yemekçilik\yemekçilik\obj\Debug\yemekçilik.Form1.resources
+E:\DERSLER\YAZILIM DERSLERİ\C# DERSLERİ\C# FORM DERSLERİ\Emre Çalışmalar\yemekçilik\yemekçilik\obj\Debug\yemekçilik.formmasa1.resources
+E:\DERSLER\YAZILIM DERSLERİ\C# DERSLERİ\C# FORM DERSLERİ\Emre Çalışmalar\yemekçilik\yemekçilik\obj\Debug\yemekçilik.Formmasa2.resources
+E:\DERSLER\YAZILIM DERSLERİ\C# DERSLERİ\C# FORM DERSLERİ\Emre Çalışmalar\yemekçilik\yemekçilik\obj\Debug\yemekçilik.Formmasa3.resources
+E:\DERSLER\YAZILIM DERSLERİ\C# DERSLERİ\C# FORM DERSLERİ\Emre Çalışmalar\yemekçilik\yemekçilik\obj\Debug\yemekçilik.Formmasa4.resources
+E:\DERSLER\YAZILIM DERSLERİ\C# DERSLERİ\C# FORM DERSLERİ\Emre Çalışmalar\yemekçilik\yemekçilik\obj\Debug\yemekçilik.Properties.Resources.resources
+E:\DERSLER\YAZILIM DERSLERİ\C# DERSLERİ\C# FORM DERSLERİ\Emre Çalışmalar\yemekçilik\yemekçilik\obj\Debug\yemekçilik.csproj.GenerateResource.Cache
+D:\DERSLER\YAZILIM DERSLERİ\C# DERSLERİ\C# FORM DERSLERİ\Emre Çalışmalar\yemekçilik\yemekçilik\bin\Debug\yemekçilik.exe.config
+D:\DERSLER\YAZILIM DERSLERİ\C# DERSLERİ\C# FORM DERSLERİ\Emre Çalışmalar\yemekçilik\yemekçilik\obj\Debug\yemekçilik.exe
+D:\DERSLER\YAZILIM DERSLERİ\C# DERSLERİ\C# FORM DERSLERİ\Emre Çalışmalar\yemekçilik\yemekçilik\obj\Debug\yemekçilik.pdb
+D:\DERSLER\YAZILIM DERSLERİ\C# DERSLERİ\C# FORM DERSLERİ\Emre Çalışmalar\yemekçilik\yemekçilik\bin\Debug\yemekçilik.exe
+D:\DERSLER\YAZILIM DERSLERİ\C# DERSLERİ\C# FORM DERSLERİ\Emre Çalışmalar\yemekçilik\yemekçilik\bin\Debug\yemekçilik.pdb
+D:\DERSLER\YAZILIM DERSLERİ\C# DERSLERİ\C# FORM DERSLERİ\Emre Çalışmalar\yemekçilik\yemekçilik\obj\Debug\yemekçilik.csprojResolveAssemblyReference.cache
+D:\DERSLER\YAZILIM DERSLERİ\C# DERSLERİ\C# FORM DERSLERİ\Emre Çalışmalar\yemekçilik\yemekçilik\obj\Debug\yemekçilik.Form1.resources
+D:\DERSLER\YAZILIM DERSLERİ\C# DERSLERİ\C# FORM DERSLERİ\Emre Çalışmalar\yemekçilik\yemekçilik\obj\Debug\yemekçilik.formmasa1.resources
+D:\DERSLER\YAZILIM DERSLERİ\C# DERSLERİ\C# FORM DERSLERİ\Emre Çalışmalar\yemekçilik\yemekçilik\obj\Debug\yemekçilik.Formmasa2.resources
+D:\DERSLER\YAZILIM DERSLERİ\C# DERSLERİ\C# FORM DERSLERİ\Emre Çalışmalar\yemekçilik\yemekçilik\obj\Debug\yemekçilik.Formmasa3.resources
+D:\DERSLER\YAZILIM DERSLERİ\C# DERSLERİ\C# FORM DERSLERİ\Emre Çalışmalar\yemekçilik\yemekçilik\obj\Debug\yemekçilik.Formmasa4.resources
+D:\DERSLER\YAZILIM DERSLERİ\C# DERSLERİ\C# FORM DERSLERİ\Emre Çalışmalar\yemekçilik\yemekçilik\obj\Debug\yemekçilik.Properties.Resources.resources
+D:\DERSLER\YAZILIM DERSLERİ\C# DERSLERİ\C# FORM DERSLERİ\Emre Çalışmalar\yemekçilik\yemekçilik\obj\Debug\yemekçilik.csproj.GenerateResource.Cache
+D:\DERSLER\YAZILIM DERSLERİ\C# DERSLERİ\C# FORM DERSLERİ\Emre Çalışmalar\Otamasyonlar\yemekçilik\yemekçilik\bin\Debug\yemekçilik.exe.config
+D:\DERSLER\YAZILIM DERSLERİ\C# DERSLERİ\C# FORM DERSLERİ\Emre Çalışmalar\Otamasyonlar\yemekçilik\yemekçilik\obj\Debug\yemekçilik.exe
+D:\DERSLER\YAZILIM DERSLERİ\C# DERSLERİ\C# FORM DERSLERİ\Emre Çalışmalar\Otamasyonlar\yemekçilik\yemekçilik\obj\Debug\yemekçilik.pdb
+D:\DERSLER\YAZILIM DERSLERİ\C# DERSLERİ\C# FORM DERSLERİ\Emre Çalışmalar\Otomasyonlar\yemekçilik\yemekçilik\bin\Debug\yemekçilik.exe.config
+D:\DERSLER\YAZILIM DERSLERİ\C# DERSLERİ\C# FORM DERSLERİ\Emre Çalışmalar\Otomasyonlar\yemekçilik\yemekçilik\obj\Debug\yemekçilik.exe
+D:\DERSLER\YAZILIM DERSLERİ\C# DERSLERİ\C# FORM DERSLERİ\Emre Çalışmalar\Otomasyonlar\yemekçilik\yemekçilik\obj\Debug\yemekçilik.pdb
+D:\DERSLER\YAZILIM DERSLERİ\C# DERSLERİ\C# FORM DERSLERİ\Emre Çalışmalar\Otomasyonlar\KARACA YEMEKÇİLİK\yemekçilik\bin\Debug\yemekçilik.exe.config
+D:\DERSLER\YAZILIM DERSLERİ\C# DERSLERİ\C# FORM DERSLERİ\Emre Çalışmalar\Otomasyonlar\KARACA YEMEKÇİLİK\yemekçilik\obj\Debug\yemekçilik.exe
+D:\DERSLER\YAZILIM DERSLERİ\C# DERSLERİ\C# FORM DERSLERİ\Emre Çalışmalar\Otomasyonlar\KARACA YEMEKÇİLİK\yemekçilik\obj\Debug\yemekçilik.pdb
+E:\DERSLER\YAZILIM DERSLERİ\C# DERSLERİ\C# FORM DERSLERİ\Emre Çalışmalar\Otomasyonlar\KARACA YEMEKÇİLİK\yemekçilik\bin\Debug\yemekçilik.exe.config
+E:\DERSLER\YAZILIM DERSLERİ\C# DERSLERİ\C# FORM DERSLERİ\Emre Çalışmalar\Otomasyonlar\KARACA YEMEKÇİLİK\yemekçilik\obj\Debug\yemekçilik.exe
+E:\DERSLER\YAZILIM DERSLERİ\C# DERSLERİ\C# FORM DERSLERİ\Emre Çalışmalar\Otomasyonlar\KARACA YEMEKÇİLİK\yemekçilik\obj\Debug\yemekçilik.pdb
